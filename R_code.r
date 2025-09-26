@@ -1,6 +1,6 @@
 # R code for Census Data
 
-```r
+```{r}
 # Load necessary libraries
 
 library(ggplot2)
