@@ -87,7 +87,7 @@ pay_binary ~ marital + age + education + sex + race + workclass + hourspweek
     - AIC: 34207 → relatively low, indicating good model fit
     - Significant predictors: Marital status, education, sex, age, workclass, and hours worked
 
-3. Model Evaluation
+3. **Model Evaluation**
 
 To assess how well the logistic regression model predicts income level, we evaluated it using both a confusion matrix and the ROC curve.
 
