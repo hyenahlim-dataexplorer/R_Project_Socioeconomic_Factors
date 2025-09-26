@@ -40,7 +40,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
     - **Workclass** is dominated by `Private` employment, especially among U.S. citizens.
     - **Race** is predominantly `White`, followed by `Black`.
     - **Marital status** (after recoding) shows a large portion are `Married`( = 22863), followed by `NeverMarried` (= 14578) and `FormerlyMarried` (= 7552).
-    - 
+      
 - Bivariate Patterns:
     - A **bivariate table** between `workclass` and `race` shows strong race-based concentration in employment types.
     - A **three-way table** (`workclass` x `race` x `sex`) reveals differences in gender representation across job types and racial groups.
