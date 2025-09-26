@@ -49,7 +49,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
     
 These patterns support the hypothesis that marital status and other demographic/work variables might influence income level, justifying their inclusion in the predictive model. 
 
-1. **Logistic Regression**
+2. **Logistic Regression**
 
 Fit a logistic regression model to estimate the probability of earning more than $50K 
 
@@ -87,7 +87,7 @@ pay_binary ~ marital + age + education + sex + race + workclass + hourspweek
     - AIC: 34207 → relatively low, indicating good model fit
     - Significant predictors: Marital status, education, sex, age, workclass, and hours worked
 
-1. Model Evaluation
+3. Model Evaluation
 
 To assess how well the logistic regression model predicts income level, we evaluated it using both a confusion matrix and the ROC curve.
 
@@ -121,3 +121,6 @@ The model performed well, achieving:
 - AUC: 0.8663
 
 These results confirms the research hypothesis: marital status is significantly associated with income level, even after accounting for other socioeconomic and occupational variables.
+
+### References
+Dataset: Adult Census Income (UCI Repository)
