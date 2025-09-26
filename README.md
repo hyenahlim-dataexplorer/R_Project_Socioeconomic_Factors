@@ -72,7 +72,7 @@ pay_binary ~ marital + age + education + sex + race + workclass + hourspweek
 - Sex
     - `Male`: β = 0.38, p < 0.001 → Males are significantly more likely to earn >$50K than females, all else equal.
 - Race (ref: `Amer-Indian-Eskimo`)
-    - `White`: β = 0.53, p = 0.001 → ****Statistically significant.
+    - `White`: β = 0.53, p = 0.001 → Statistically significant.
     - Others (`Black`, `Asian-Pac-Islander`, `Other`) are not significant in this model.
 - Workclass
     - Compared to `Federal-gov` (baseline), most other groups have lower odds of earning >$50K:
