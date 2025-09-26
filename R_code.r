@@ -29,20 +29,18 @@ barplot(count,
   main = "Counts of Working Class for all United States Citizens",
   las = 1, cex.names = 0.4)
 
-# Make a bivariate frequency table for the 'workclass' variable as the rows and race as the columns. 
-# In a second table, show the same table but with the marginal frequencies added.
+# Bivariate frequency table for the 'workclass' variable and 'race' variable.
 bivar_freq_tab = table(adult$workclass, adult$race)
 bivar_freq_tab
 # Add the marginal frequencies
 bivar_freq_tab_margin = addmargins(bivar_freq_tab)
 bivar_freq_tab_margin
 
-# make a three-way table for the 'workclass', 'race', and 'sex' variables.
-# Then use 'ftable()' to flatten the 3-D table.
+# Three-way table for the 'workclass', 'race', and 'sex' variables.
 my_3way_tab = xtabs( ~ workclass + race + sex, data = adult)
 ftable(my_3way_tab)
 
-# Create a relative frequency stacked barchart displaying the counts of 'pay' categories with respect to the 'marital' category.
+# Relative frequency stacked barchart displaying the counts of 'pay' categories with respect to the 'marital' category.
 ggplot(adult) + theme_bw() +
 geom_bar(mapping = aes(x = marital, fill = pay), position = "fill") +
   labs(x = "Marital Status", y = "Relative Frequency",
