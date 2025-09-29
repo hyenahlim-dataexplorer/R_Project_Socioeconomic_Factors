@@ -36,13 +36,26 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 | Min.      | 17.00   | 1.00                 |
 | 1st Qu.   | 28.00   | 40.00                |
 | Median    | 37.00   | 40.00                |
-| Mean      | 38.51   | 40.89                |                                  
+| Mean      | 38.51   | 40.89                | 
 | 3rd Qu.   | 47.00   | 45.00                |
 | Max.      | 90.00   | 99.00                |
 
 * Age & Hours: Most individuals work ~40 hours per week, with median age ~37.
+
+[graph]
+
 * Work Class: Private sector dominates, followed by government roles.
+
+[table] 
+
 * Race x Work Class: White workers are the majority acorss all work classes, while Black workers are heavily concentrated in the private sector.
+
+[table]
+
+* Work Class x Race x Sex
+
+[graph]
+  
 * Marital Status x Income: Married individuals have a much higher likelihood of >50K income compared to single or formerly married groups.
 
 2. **Logistic Regression Findings**
