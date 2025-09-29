@@ -31,7 +31,17 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 1. **Descriptive Insights**
 
+|           |  age    |    hours per week    | |    Age Distribution Graph       |
+|-----------|---------|----------------------| |---------------------------------|
+| Min.      | 17.00   | 1.00                 | |![Alt text](images/example.png)  |
+| 1st Qu.   | 28.00   | 40.00                |
+| Median    | 37.00   | 40.00                |
+| Mean      | 38.51   | 40.89                |                                  
+| 3rd Qu.   | 47.00   | 45.00                |
+| Max.      | 90.00   | 99.00                |
+
 * Age & Hours: Most individuals work ~40 hours per week, with median age ~37.
+* 
 * Work Class: Private sector dominates, followed by government roles.
 * Race x Work Class: White workers are the majority acorss all work classes, while Black workers are heavily concentrated in the private sector.
 * Marital Status x Income: Married individuals have a much higher likelihood of >50K income compared to single or formerly married groups.
