@@ -31,9 +31,9 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 1. **Descriptive Insights**
 
-|           |  age    |    hours per week    | |    Age Distribution Graph       |
-|-----------|---------|----------------------| |---------------------------------|
-| Min.      | 17.00   | 1.00                 | |![Alt text](images/example.png)  |
+|           |  age    |    hours per week    |
+|-----------|---------|----------------------|
+| Min.      | 17.00   | 1.00                 |
 | 1st Qu.   | 28.00   | 40.00                |
 | Median    | 37.00   | 40.00                |
 | Mean      | 38.51   | 40.89                |                                  
