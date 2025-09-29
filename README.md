@@ -78,6 +78,13 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 |--------------------------------------------------------------------------------------------------------------------------------|
 | ![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/ROC%20Curve.png)              |
 
+* Confusion Matrix
+
+|           |    Actual     |           |
+|-----------|---------------|-----------|
+| Predicted | 0             | 1         |
+|         0 | 31473         | 5633      |
+|         1 | 2541          | 5346      |
 
 * Accuracy: 81.8%
 * AUC: 0.866 → strong discrimination between >50K and ≤50K groups.
