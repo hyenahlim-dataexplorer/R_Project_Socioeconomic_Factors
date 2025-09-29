@@ -56,7 +56,9 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 * Work Class x Race x Sex
 
-[graph]
+|                                                           Pay Categories Graph                                                 |
+|--------------------------------------------------------------------------------------------------------------------------------|
+|![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/Pay%20Categories%20Graph.png)) |
   
 * Marital Status x Income: Married individuals have a much higher likelihood of >50K income compared to single or formerly married groups.
 
