@@ -50,11 +50,15 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 * AUC: 0.866 → strong discrimination between >50K and ≤50K groups.
 * Misclassification: ~5,600 high earners misclassified as low earners → possible business impact if model used in financial planning or credit risk.
 
+---
+
 ### Conclusion
 
 * Logistic regression is an appropriate baseline model with good predictive performance (AUC: 0.866).
 * Key predictors: marital status, education, age, weekly hours, sex, and work class.
 * Future improvements: add interaction terms (e.g., sex x education), try ensemble models (e.g., Random Forest, XGBoost), and address class imbalance.
+
+---
 
 ### References
 Dataset: Adult Census Income (UCI Repository)
