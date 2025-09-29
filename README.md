@@ -76,7 +76,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 |                                                             ROC Curve                                                          |
 |--------------------------------------------------------------------------------------------------------------------------------|
-|![image alt]((https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/ROC%20Curve.png)              |
+| ![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/ROC%20Curve.png)              |
 
 
 * Accuracy: 81.8%
