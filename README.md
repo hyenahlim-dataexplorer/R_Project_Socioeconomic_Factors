@@ -42,7 +42,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 * Age & Hours: Most individuals work ~40 hours per week, with median age ~37.
 
-[graph]
+![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/workclass%20graph.png)
 
 * Work Class: Private sector dominates, followed by government roles.
 
