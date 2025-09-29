@@ -70,7 +70,14 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 * Sex: Men have higher odds than women (β ≈ +0.38, p < 0.001).
 * Work Class: Government employees earn less than private, while self-employed (not-incorporated) earn significantly less.
 
+---
+
 3. **Model Performance**
+
+|                                                             ROC Curve                                                          |
+|--------------------------------------------------------------------------------------------------------------------------------|
+|![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/Pay%20Categories%20Graph.png)  |
+
 
 * Accuracy: 81.8%
 * AUC: 0.866 → strong discrimination between >50K and ≤50K groups.
