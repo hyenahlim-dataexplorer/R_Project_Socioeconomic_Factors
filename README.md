@@ -41,7 +41,6 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 | Max.      | 90.00   | 99.00                |
 
 * Age & Hours: Most individuals work ~40 hours per week, with median age ~37.
-* 
 * Work Class: Private sector dominates, followed by government roles.
 * Race x Work Class: White workers are the majority acorss all work classes, while Black workers are heavily concentrated in the private sector.
 * Marital Status x Income: Married individuals have a much higher likelihood of >50K income compared to single or formerly married groups.
