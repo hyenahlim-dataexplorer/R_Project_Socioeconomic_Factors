@@ -54,9 +54,11 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 * Race x Work Class: White workers are the majority acorss all work classes, while Black workers are heavily concentrated in the private sector.
 
-[table]
+|                                                      Work Class x Race x Sex Table                                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------|
+|![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/Workclass%20x%20race%20x%20sex.png) |
 
-* Race x Work Class x Sex
+* Race x Work Class x Sex: 
 
 |                                                   Pay Categories Graph                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------|
