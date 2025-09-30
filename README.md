@@ -58,7 +58,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 |-------------------------------------------------------------------------------------------------------------------------------------|
 |![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/Workclass%20x%20race%20x%20sex.png) |
 
-* Race x Work Class x Sex: 
+* Race x Work Class x Sex: White males dominate numerically, followed by White females, while other racial groups (Black, Asian-Pac-Islander, Amer-Indian-Eskimo) have much smaller representation, particularly in self-employment categories.
 
 |                                                   Pay Categories Graph                                                         |
 |--------------------------------------------------------------------------------------------------------------------------------|
