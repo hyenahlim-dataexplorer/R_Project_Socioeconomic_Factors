@@ -2,7 +2,7 @@
 
 ## Socioeconomic Factors in U.S. Census: An Analytical Approach
 
-### Introduction
+### 📌 Introduction
 
 The Adult Census Income dataset, derived from the 1994 U.S. Census database, contains a wide range of socio-economic and demographic features. It has been widely used for modeling classification problems related to income, particularly distinguishing individuals who earn more than $50,000 annually from those who do not. This project aims to explore the effect of marital status on income level, while accounting for other individual-level characteristics. 
 
@@ -27,7 +27,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 ---
 
-### Analysis & Interpretation
+### 🔍 Analysis & Interpretation
 
 1. **Descriptive Insights**
 
@@ -94,7 +94,7 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 ---
 
-### Conclusion
+### 📈 Conclusion
 
 * Logistic regression is an appropriate baseline model with good predictive performance (AUC: 0.866).
 * Key predictors: marital status, education, age, weekly hours, sex, and work class.
