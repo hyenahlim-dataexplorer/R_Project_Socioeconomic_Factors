@@ -48,7 +48,9 @@ The dataset consists of **44,993 observations** with 14 attributes describing de
 
 * Work Class: Private sector dominates, followed by government roles.
 
-[table]
+|                                                 Work Class x Race Table                                                   |
+|---------------------------------------------------------------------------------------------------------------------------|
+|![image alt](https://github.com/hyenahlim-dataexplorer/R_Project_Socioeconomic_Factors/blob/main/workclass%20x%20race.png) |
 
 * Race x Work Class: White workers are the majority acorss all work classes, while Black workers are heavily concentrated in the private sector.
 
